@@ -1,0 +1,38 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9EB0B903-966B-401B-A5BC-74C1E7FF9E24/f:Program.cs" caret="279" fromTop="13" />
+      <File id="9EB0B903-966B-401B-A5BC-74C1E7FF9E24/f:DnsTest.cs" caret="189" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9EB0B903-966B-401B-A5BC-74C1E7FF9E24/f:DnsTest.cs" caret="157" fromTop="9" />
+      <File id="9EB0B903-966B-401B-A5BC-74C1E7FF9E24/f:Program.cs" caret="383" fromTop="13" />
+      <File id="9EB0B903-966B-401B-A5BC-74C1E7FF9E24/f:Program.cs" caret="279" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="DnsTest`0" priority="0" />
+      <Item value="dnsTest" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="DnsTest" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

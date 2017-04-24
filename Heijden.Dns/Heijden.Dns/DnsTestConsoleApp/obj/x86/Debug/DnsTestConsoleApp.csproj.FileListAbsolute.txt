@@ -1,0 +1,14 @@
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\bin\Debug\DnsTestConsoleApp.exe
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\bin\Debug\DnsTestConsoleApp.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\bin\Debug\Heijden.Dns.dll
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\bin\Debug\Heijden.Dns.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\obj\x86\Debug\DnsTestConsoleApp.exe
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\DnsTestConsoleApp\obj\x86\Debug\DnsTestConsoleApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\obj\x86\Debug\DnsTestConsoleApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\obj\x86\Debug\DnsTestConsoleApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\bin\Debug\DnsTestConsoleApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\bin\Debug\DnsTestConsoleApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\bin\Debug\Heijden.Dns.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\bin\Debug\Heijden.Dns.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DnsTestConsoleApp\obj\x86\Debug\DnsTestConsoleApp.csprojResolveAssemblyReference.cache

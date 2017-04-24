@@ -1,0 +1,10 @@
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\Heijden.Dns\bin\Debug\Heijden.Dns.dll
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\Heijden.Dns\bin\Debug\Heijden.Dns.pdb
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\Heijden.Dns\obj\Debug\ResolveAssemblyReference.cache
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\Heijden.Dns\obj\Debug\Heijden.Dns.dll
+c:\users\robert\documents\visual studio 2010\Projects\Heijden.Dns\Heijden.Dns\obj\Debug\Heijden.Dns.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\Heijden.Dns\bin\Debug\Heijden.Dns.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\Heijden.Dns\bin\Debug\Heijden.Dns.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\Heijden.Dns\obj\Debug\Heijden.Dns.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\Heijden.Dns\obj\Debug\Heijden.Dns.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\Heijden.Dns\obj\Debug\Heijden.Dns.pdb

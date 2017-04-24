@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\bin\Debug\BatSite31.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\obj\Debug\BatSite31.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\obj\Debug\BatSite31.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\obj\Debug\BatSite31.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\bin\Debug\BatSite31.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\bin\Debug\BatSite31.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\obj\Debug\BatSite31.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\obj\Debug\BatSite31.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BatSite31\BatSite31\obj\Debug\BatSite31.csprojResolveAssemblyReference.cache
