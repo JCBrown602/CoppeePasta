@@ -12,8 +12,44 @@ namespace DnsTestConsoleApp
     {
         static void Main(string[] args)
         {
+            while (true) // Loop indefinitely
+            {
+                Console.Write("Enter input (Type 'exit' to, you know): "); // Prompt
+                string userInput = Console.ReadLine(); // Get string from user
+                if (userInput == "exit") // Check string
+                {
+                    break;
+                }
+                else
+                {
+                    Dig newDig = new Dig(userInput);
+                }
+            }
+        }
+    }
+
+    class Dig
+    {
+        #region PROPERTIES
+        string _domain;
+        #endregion
+
+        #region CTORs
+        public Dig()
+            : this("google.com")
+        {
+            //CTOR Initializer
+        }
+        public Dig(string domain)
+        {
+            this._domain = domain;
+        }
+        #endregion
+
+        #region METHODS
+        public void GetDig(string domainName)
+        {
             DnsTest dnsTest = new DnsTest();
-            string domainName = "phenixlawfirm.com";
             string domainWWW = "www." + domainName;
 
             int ARecordCount = dnsTest.ARecords(domainName).Count;
@@ -91,5 +127,7 @@ namespace DnsTestConsoleApp
                 }
             }
         }
+        #endregion
+
     }
 }
