@@ -13,12 +13,13 @@ namespace DnsTestConsoleApp
             _resolver = new Resolver();
             _resolver.Recursion = true;
             _resolver.UseCache = true;
-            _resolver.DnsServer = "8.8.8.8"; // Google Public DNS
+            _resolver.DnsServer = "8.8.4.4"; // Google Public DNS
 
             _resolver.TimeOut = 1000;
             _resolver.Retries = 3;
             _resolver.TransportType = TransportType.Udp;
         }
+        #region Get Records
         // TXT RECORDS
         public IList<string> TxtRecords(string name)
         {
@@ -49,7 +50,6 @@ namespace DnsTestConsoleApp
             {
                 records.Add(record.ToString());
             }
-
             return records;
         }
 
@@ -66,10 +66,43 @@ namespace DnsTestConsoleApp
             {
                 records.Add(record.ToString());
             }
-
             return records;
         }
 
+        // MX RECORDS
+        public IList<string> MXRecords(string name)
+        {
+            IList<string> records = new List<string>();
+            const QType qType = QType.MX;
+            const QClass qClass = QClass.IN;
+
+            Response response = _resolver.Query(name, qType, qClass);
+
+            foreach (RecordMX record in response.RecordsMX)
+            {
+                records.Add(record.ToString());
+            }
+            return records;
+        }
+
+        // NS RECORDS
+        public IList<string> NSRecords(string name)
+        {
+            IList<string> records = new List<string>();
+            const QType qType = QType.NS;
+            const QClass qClass = QClass.IN;
+
+            Response response = _resolver.Query(name, qType, qClass);
+
+            foreach (RecordNS record in response.RecordsNS)
+            {
+                records.Add(record.ToString());
+            }
+            return records;
+        }
+        #endregion
+
+        #region Types & Classes
         public IList<string> GetQTypes()
         {
             IList<string> items = new List<string>();
@@ -95,5 +128,6 @@ namespace DnsTestConsoleApp
 
             return items;
         }
+        #endregion
     }
 }
