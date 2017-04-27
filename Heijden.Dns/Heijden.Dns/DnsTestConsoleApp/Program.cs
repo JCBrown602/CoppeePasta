@@ -46,6 +46,12 @@ namespace DnsTestConsoleApp
         }
         #endregion
 
+        #region GETTERS/SETTERS
+
+        public string Domain { get; set; }
+
+        #endregion
+
         #region METHODS
         public void GetDig(string domainName)
         {
