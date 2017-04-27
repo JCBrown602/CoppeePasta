@@ -36,7 +36,7 @@ namespace DnsTestConsoleApp
 
         #region CTORs
         public Dig()
-            : this("google.com")
+            : this("cnn.com")
         {
             //CTOR Initializer
         }
