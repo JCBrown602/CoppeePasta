@@ -28,10 +28,12 @@ namespace DnsTestConsoleApp
         }
     }
 
-    class Dig
+    class Dig : DnsTest
     {
         #region PROPERTIES
         string _domain;
+        DnsTest dnsTest = new DnsTest();
+
         #endregion
 
         #region CTORs
@@ -53,9 +55,9 @@ namespace DnsTestConsoleApp
         #endregion
 
         #region METHODS
-        public void GetDig(string domainName)
+        
+        public void GetDig(string domainName, DnsTest dnsTest)
         {
-            DnsTest dnsTest = new DnsTest();
             string domainWWW = "www." + domainName;
 
             int ARecordCount = dnsTest.ARecords(domainName).Count;
@@ -74,7 +76,7 @@ namespace DnsTestConsoleApp
 
             Console.WriteLine("> A Records: {0}", ARecordCount);
             WriteList(dnsTest.ARecords(domainName), ARecordCount);
-
+            
             Console.WriteLine("> TXT: {0}", TXTCount);
             WriteList(dnsTest.TxtRecords(domainName), TXTCount);
 

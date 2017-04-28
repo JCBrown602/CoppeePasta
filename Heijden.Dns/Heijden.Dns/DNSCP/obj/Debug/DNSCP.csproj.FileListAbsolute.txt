@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\DNSCP.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\DNSCP.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\DNSCP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.pdb
