@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DnsTestConsoleApp; // Gets/formats DNS Records
 
+using DnsTestConsoleApp;
+
 namespace DNSCP
 {
     public partial class Form1 : Form
@@ -21,6 +23,13 @@ namespace DNSCP
         private void domainBox_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void getRecordsBtn_Click(object sender, EventArgs e)
+        {
+            DnsTest newDNS = new DnsTest();
+
+            richTextBox1.Text = newDNS.ARecords(domainBox.Text).ToString();
         }
 
 

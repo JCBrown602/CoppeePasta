@@ -104,6 +104,7 @@
             this.getRecordsBtn.TabIndex = 4;
             this.getRecordsBtn.Text = "Get Records";
             this.getRecordsBtn.UseVisualStyleBackColor = true;
+            this.getRecordsBtn.Click += new System.EventHandler(this.getRecordsBtn_Click);
             // 
             // Form1
             // 

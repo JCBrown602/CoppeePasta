@@ -7,3 +7,7 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.csproj.GenerateResource.Cache
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.exe
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\obj\Debug\DNSCP.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\DnsTestConsoleApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\Heijden.Dns.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\DnsTestConsoleApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CoppeePasta\Heijden.Dns\Heijden.Dns\DNSCP\bin\Debug\Heijden.Dns.pdb

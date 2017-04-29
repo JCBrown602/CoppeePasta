@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dig.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,9 +79,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DnsTestConsoleApp\DnsTestConsoleApp.csproj">
-      <Project>{9eb0b903-966b-401b-a5bc-74c1e7ff9e24}</Project>
-      <Name>DnsTestConsoleApp</Name>
+    <ProjectReference Include="..\Heijden.Dns\Heijden.Dns.csproj">
+      <Project>{26752ade-e7b5-466e-b80f-4a95ba6d9f7d}</Project>
+      <Name>Heijden.Dns</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

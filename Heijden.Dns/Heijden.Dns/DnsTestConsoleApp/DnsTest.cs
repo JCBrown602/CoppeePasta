@@ -8,6 +8,7 @@ namespace DnsTestConsoleApp
     {
         private readonly Resolver _resolver;
 
+        // CTOR
         public DnsTest()
         {
             _resolver = new Resolver();
@@ -19,6 +20,7 @@ namespace DnsTestConsoleApp
             _resolver.Retries = 3;
             _resolver.TransportType = TransportType.Udp;
         }
+
         #region Get Records
         // TXT RECORDS
         public IList<string> TxtRecords(string name)
